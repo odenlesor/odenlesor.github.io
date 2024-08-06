@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://odenlesor.github.io/sitemap.html.gz
+Sitemap: https://odenlesor.github.io/app/sitemap.html.gz
+Sitemap: https://odenlesor.github.io/assets/sitemap.html.gz
+Sitemap: https://odenlesor.github.io/css/sitemap.html.gz
+Sitemap: https://odenlesor.github.io/includes/sitemap.html.gz
+Sitemap: https://odenlesor.github.io/item/sitemap.html.gz
+Sitemap: https://odenlesor.github.io/src/sitemap.html.gz
